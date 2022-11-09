@@ -32,7 +32,7 @@
     "classnames": "^2.2.6",
     "clipboard-polyfill": "^2.8.6",
     "color": "^3.1.2",
-    "d3": "4.12.2",
+    "d3": "^5.16.0",
     "date-fns": "^2.23.0",
     "dygraphs": "2.1.0",
     "easy-pie-chart": "^2.1.7",
